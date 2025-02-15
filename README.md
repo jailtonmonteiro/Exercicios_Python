@@ -13,3 +13,5 @@
 006 - Crie um programa que leia um número, mostre o dobro, triplo e a raiz quadrada.
 
 007 - Crie um progrma que leia duas notas, e mostre a média.
+
+008 - Crie um programa que leia um valor em metros, e exiba o mesmo valor em centimetro e milimetros
