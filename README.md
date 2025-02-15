@@ -19,3 +19,5 @@
 008 - Crie um programa que leia um valor em metros, e exiba o mesmo valor em centimetro e milimetros
 
 009 - Crie um programa que leia um número inteiro e mostre na tela sua tabuada.
+
+010 - Crie um programa que leia o dinheiro da carteira e exiba o valor em dolares(5.73)
