@@ -11,3 +11,5 @@
 005 - Crie um programa que leia um número inteiro e mostre o sucessor e antecessor.
 
 006 - Crie um programa que leia um número, mostre o dobro, triplo e a raiz quadrada.
+
+007 - Crie um progrma que leia duas notas, e mostre a média.
