@@ -17,3 +17,5 @@
 007 - Crie um progrma que leia duas notas, e mostre a média.
 
 008 - Crie um programa que leia um valor em metros, e exiba o mesmo valor em centimetro e milimetros
+
+009 - Crie um programa que leia um número inteiro e mostre na tela sua tabuada.
