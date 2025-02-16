@@ -25,3 +25,4 @@
 011 - Crie um prgrama que leia a largura e altura de uma parede e quantidade de tinta para pintá-la.
 Cada litro de tinta para uma área de 2m².
 
+012 -  Crie um programa que leia o preço de um produto e mostre o novo preço com 5% de desconto.
