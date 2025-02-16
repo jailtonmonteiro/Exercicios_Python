@@ -21,3 +21,7 @@
 009 - Crie um programa que leia um número inteiro e mostre na tela sua tabuada.
 
 010 - Crie um programa que leia o dinheiro da carteira e exiba o valor em dolares(5.73)
+
+011 - Crie um prgrama que leia a largura e altura de uma parede e quantidade de tinta para pintá-la.
+Cada litro de tinta para uma área de 2m².
+
