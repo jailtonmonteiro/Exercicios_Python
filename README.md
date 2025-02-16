@@ -26,3 +26,5 @@
 Cada litro de tinta para uma área de 2m².
 
 012 -  Crie um programa que leia o preço de um produto e mostre o novo preço com 5% de desconto.
+
+013 - Crie um programa que leia o salario de um funcionário de mostre o novo valor com 15% de reajuste
