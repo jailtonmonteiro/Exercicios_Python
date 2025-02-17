@@ -22,11 +22,12 @@
 
 010 - Crie um programa que leia o dinheiro da carteira e exiba o valor em dolares(5.73)
 
-011 - Crie um prgrama que leia a largura e altura de uma parede e quantidade de tinta para pintá-la.
-Cada litro de tinta para uma área de 2m².
+011 - Crie um prgrama que leia a largura e altura de uma parede e quantidade de tinta para pintá-la. Cada litro de tinta para uma área de 2m².
 
 012 -  Crie um programa que leia o preço de um produto e mostre o novo preço com 5% de desconto.
 
 013 - Crie um programa que leia o salario de um funcionário de mostre o novo valor com 15% de reajuste
 
 014 - Crie um programa que converta uma temperatura digitada em °C para °F
+
+015 - Crie um programa que pergunte a quantidade de Km percorridos por um carro e a quantidade de dias ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60.00 e R$ 0.15 por Km rodado
