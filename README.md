@@ -34,4 +34,7 @@
 
 016 - Crie um programa que leia um numero Real qualquer e mostre a sua porção inteira.
 
-017 - Crie um programa que leia o comprimento do cateto oposto e adjacente de um triângulo retângulo e calcule a sua hipotenusa
+017 - Crie um programa que leia o comprimento do cateto oposto e adjacente de um triângulo retângulo e calcule a sua hipotenusa.
+
+018 - Crie um programa que leia um angulo qualquer e mostre na tela o valor de seno, cosseno e tangente do ângulo.
+
