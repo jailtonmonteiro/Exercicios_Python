@@ -31,3 +31,5 @@
 014 - Crie um programa que converta uma temperatura digitada em °C para °F
 
 015 - Crie um programa que pergunte a quantidade de Km percorridos por um carro e a quantidade de dias ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60.00 e R$ 0.15 por Km rodado
+
+016 - Crie um programa que leia um numero Real qualquer e mostre a sua porção inteira.
