@@ -40,3 +40,4 @@
 
 019 - Crie um programa que que leia o nome de quatro alunos e sorteie um deles para apagar o quadro. Leia os nomes e escreva os nomes do escolhido.
 
+020 - Crie um programa que leia o nome de quatro alunos e sorteie a ordem de apresentação do trabalho.
