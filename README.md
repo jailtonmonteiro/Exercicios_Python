@@ -38,3 +38,5 @@
 
 018 - Crie um programa que leia um angulo qualquer e mostre na tela o valor de seno, cosseno e tangente do ângulo.
 
+019 - Crie um programa que que leia o nome de quatro alunos e sorteie um deles para apagar o quadro. Leia os nomes e escreva os nomes do escolhido.
+
