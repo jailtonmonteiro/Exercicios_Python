@@ -44,4 +44,6 @@
 
 021 - Crie um programa que abra e reproduza um áudio de arquivo MP3.
 
-022 - Crie um programa que leia o nome de uma pessoa e mostre: O nome com todas as letras maiusculas, o nome com todas as letras minusculas, quantas letras sem considerar espaços, quantas letras tem o primeiro nome
+022 - Crie um programa que leia o nome de uma pessoa e mostre: O nome com todas as letras maiusculas, o nome com todas as letras minusculas, quantas letras sem considerar espaços, quantas letras tem o primeiro nome.
+
+023 - Crie um programa que leia um numero de 0 a 9999 e mostre na tela a sepação de Milhar, Centena, Dezena e Unidade.
