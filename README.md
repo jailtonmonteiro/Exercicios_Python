@@ -49,3 +49,7 @@
 023 - Crie um programa que leia um numero de 0 a 9999 e mostre na tela a sepação de Milhar, Centena, Dezena e Unidade.
 
 024 - Crie um prohrama que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+
+025 - Crei um programa que leia um nome completo de pessoa e verifique se tem 'silva' no nome.
+
+026 - Crie um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
