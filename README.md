@@ -53,3 +53,5 @@
 025 - Crei um programa que leia um nome completo de pessoa e verifique se tem 'silva' no nome.
 
 026 - Crie um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+027 - Crie um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
