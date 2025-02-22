@@ -55,3 +55,5 @@
 026 - Crie um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
 
 027 - Crie um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+028 - Crie um programa que faça o computador "pensar" em um numero inteiro entre 0 e 5 peça para o usuário tentar descobrir qual foi o numero escolhido, deverá escrever na tela se acertou ou perdeu.
