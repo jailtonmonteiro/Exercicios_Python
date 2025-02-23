@@ -67,3 +67,5 @@
 032 - Crie um programa que leia um ano qualquer e mostre se ele é bissexto.
 
 033 - Crie um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+034 - Crie um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
