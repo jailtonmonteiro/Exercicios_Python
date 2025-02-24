@@ -78,10 +78,26 @@
 
 037 - Crie um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
 
-038 - Exercício Python 038: Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem: – O primeiro valor é maior; – O segundo valor é maior; – Não existe valor maior, os dois são iguais;
+038 - Exercício Python 038: Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem: 
+– O primeiro valor é maior; 
+– O segundo valor é maior; 
+– Não existe valor maior, os dois são iguais;
 
 039 - um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
-040 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida: – Média abaixo de 5.0: REPROVADO – Média entre 5.0 e 6.9: RECUPERAÇÃO – Média 7.0 ou superior: APROVADO
+040 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida: 
+– Média abaixo de 5.0: REPROVADO 
+– Média entre 5.0 e 6.9: RECUPERAÇÃO 
+– Média 7.0 ou superior: APROVADO
 
-041 - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade: – Até 9 anos: MIRIM – Até 14 anos: INFANTIL – Até 19 anos: JÚNIOR – Até 25 anos: SÊNIOR – Acima de 25 anos: MASTER
+041 - A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade: 
+– Até 9 anos: MIRIM 
+– Até 14 anos: INFANTIL 
+– Até 19 anos: JÚNIOR 
+– Até 25 anos: SÊNIOR 
+– Acima de 25 anos: MASTER
+
+042 - Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+– EQUILÁTERO: todos os lados iguais
+– ISÓSCELES: dois lados iguais, um diferente
+– ESCALENO: todos os lados diferentes
