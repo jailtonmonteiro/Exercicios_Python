@@ -122,3 +122,7 @@
 047 - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 0 e 50.
 
 048 - Crie um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+
+049 - Refaça o ex009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+
+050 - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
