@@ -114,3 +114,5 @@
 – à vista no cartão: 5% de desconto
 – em até 2x no cartão: preço normal 
 – 3x ou mais no cartão: 20% de juros
+
+045 - Crie um programa que faça o computador jogar Jokenpô com você.
