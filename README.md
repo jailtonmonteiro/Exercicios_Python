@@ -116,3 +116,5 @@
 – 3x ou mais no cartão: 20% de juros
 
 045 - Crie um programa que faça o computador jogar Jokenpô com você.
+
+046 - Crie um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
