@@ -150,3 +150,5 @@
 [ 4 ] novos números
 [ 5 ] sair do programa
 Seu programa deverá realizar a operação solicitada em cada caso. 
+
+060 - Faça um programa que leia um número qualquer e mostre o seu fatorial.
