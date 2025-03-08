@@ -154,3 +154,5 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 060 - Faça um programa que leia um número qualquer e mostre o seu fatorial.
 
 061 - Refaça o DESAFIO 51, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+
+062 - Melhore o DESAFIO 61, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
