@@ -168,3 +168,8 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 067 - Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
 
 068 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
+069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+-Quantas pessoas tem mais de 18 anos.
+-Quantos homens foram cadastrados.
+-Quantas mulheres tem menos de 20 anos.
