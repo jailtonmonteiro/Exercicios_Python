@@ -21,3 +21,4 @@ while True:
         print('Você = {}\nComputador = {}'.format(num, com))
         print('Você perdeu')
         break
+print('Vitórias seguidas = {}'.format(vitorias))
