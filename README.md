@@ -184,3 +184,9 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 ## Módulo 03: Exercicios
 
 072 - Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+
+073 - Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+-Os 5 primeiros times.
+-Os últimos 4 colocados.
+-Times em ordem alfabética.
+-Em que posição está o time da Chapecoense.
