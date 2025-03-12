@@ -10,14 +10,11 @@ for x in numeros:
 
 print('Número 9 apareceu {} vez(es)'.format(nove))
 
-for i in numeros:
-    if i != 3:
-        print('Não foi digitado nenhum número 3')
-        break
-    else:   
-        print('Número 3 foi o {}° digitado'.format(numeros.index(3)+1))
-        break
-
+if 3 in numeros:
+    print('Número 3 foi o {}° digitado'.format(numeros.index(3)+1))
+else:   
+    print('Não foi digitado nenhum número 3')
+        
 print('Números pares: ', end=' ')
 
 for p in numeros:
