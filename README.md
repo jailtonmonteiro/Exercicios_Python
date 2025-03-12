@@ -207,3 +207,8 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 079 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
 080 - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
+
+081 - Crie um programa que vai ler vários números e colocar em uma lista. depois mostre:
+-Quantos valores foram digitados?
+-A lista de valores, ordenada de forma decrescente
+-Se o valor 5 foi digitado ou não está na lista
