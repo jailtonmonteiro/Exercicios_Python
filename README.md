@@ -197,3 +197,5 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 -Quantas vezes apareceu o valor 9.
 -Em que posição foi digitado o primeiro valor 3.
 -Quais foram os números pares.
+
+076 - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
