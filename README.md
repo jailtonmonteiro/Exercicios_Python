@@ -212,3 +212,6 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 -Quantos valores foram digitados?
 -A lista de valores, ordenada de forma decrescente
 -Se o valor 5 foi digitado ou não está na lista
+
+082 - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
+
