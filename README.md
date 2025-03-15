@@ -225,3 +225,8 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 085 - Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
 
 086 - Crie um programa que declare uma matriz de dimensão 3×3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
+
+087 - Aprimore o desafio anterior, mostrando no final:
+-A soma de todos os valores pares digitados.
+-A soma dos valores da terceira coluna.
+-O maior valor da segunda linha.
