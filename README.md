@@ -248,3 +248,5 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 -A média de idade
 -Uma lista com as mulheres
 -Uma lista de pessoas com idade acima da média
+
+095 - Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
