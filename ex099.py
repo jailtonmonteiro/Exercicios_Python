@@ -1,5 +1,4 @@
 from random import randint
-from time import sleep
 
 maior = 0
 numeros = []
