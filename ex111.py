@@ -1,3 +1,3 @@
-from ex111 import ex111p
+from ex111 import moeda
 
-ex111p.resumo(10)
+moeda.resumo(10)
